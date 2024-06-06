@@ -13,3 +13,6 @@ Upon launching the application, the user is presented with a menu of actions to 
 
 ![image](https://github.com/alexeykrymov/ToDo-List-in-C-/assets/55350467/e037d06d-341c-4628-9433-f5436521c0f3)
 
+
+Download link for exe:
+https://drive.google.com/file/d/1m7dF5F7cs0lLKhE-7q3pPYB-Z53O5f4o/view?usp=sharing
