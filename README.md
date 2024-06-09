@@ -14,6 +14,8 @@ Upon launching the application, the user is presented with a menu of actions to 
 ![image](https://github.com/alexeykrymov/ToDo-List-in-C-/assets/55350467/e037d06d-341c-4628-9433-f5436521c0f3)
 
 
+---------------------------------------------------------------
+
 This code uses the following principles and patterns:
 
 Object-Oriented Programming (OOP) Principles:
