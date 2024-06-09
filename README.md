@@ -2,7 +2,7 @@ ToDo List in C#
 Description
 This is a console-based ToDo List application written in C#. It allows the user to create tasks, mark them as completed, edit them, and view a list of all tasks.
 
-Features
+Features:
 Adding new tasks with a description and priority.
 Displaying a list of all tasks, sorted by priority.
 Marking a task as completed by task number.
